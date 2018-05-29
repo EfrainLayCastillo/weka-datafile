@@ -1,0 +1,51 @@
+[
+  {
+    "Personas": "Carlos Tunon",
+    "arbol": "Guacimo",
+    "latitud": 9.0247298,
+    "longitud": -79.534959,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Carlos Tunon",
+    "arbol": "Macano",
+    "latitud": 9.0247049,
+    "longitud": -79.5327682,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Carlos Tunon",
+    "arbol": "Carrisillo",
+    "latitud": 9.0249653,
+    "longitud": -79.5299606,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Carlos Tunon",
+    "arbol": "Madroño",
+    "latitud": 9.0268469,
+    "longitud": -79.5338516,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Carlos Tunon",
+    "arbol": "Guayacan",
+    "latitud": 9.0271063,
+    "longitud": -79.5310287,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Carlos Tunon",
+    "arbol": "Guarumo",
+    "latitud": 9.0250711,
+    "longitud": -79.5318985,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Carlos Tunon",
+    "arbol": "Cuipo",
+    "latitud": 9.023098,
+    "longitud": -79.5347662,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  }
+]

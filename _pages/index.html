@@ -1,0 +1,111 @@
+---
+title: Weka
+description: Weka
+
+layout: base
+permalink: /
+namespace: index
+navbar: defualt
+logo: white
+---
+<script>
+
+
+
+  function initMap(){
+    // Map options
+    var options = {
+      zoom:17.33,
+      center:{lat:9.0266085,lng:-79.5350465}
+    }
+
+    // New map
+    var map = new google.maps.Map(document.getElementById('map'), options);
+
+    // Listen for click on map
+    google.maps.event.addListener(map, 'click', function(event){
+      // Add marker
+      addMarker({coords:event.latLng});
+    });
+
+    /*
+    // Add marker
+    var marker = new google.maps.Marker({
+      position:{lat:42.4668,lng:-70.9495},
+      map:map,
+      icon:'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png'
+    });
+
+    var infoWindow = new google.maps.InfoWindow({
+      content:'<h1>Lynn MA</h1>'
+    });
+
+    marker.addListener('click', function(){
+      infoWindow.open(map, marker);
+    });
+    */
+
+    // Array of markers
+    var markers = [
+      {
+        coords:{lat:9.0247298,lng:-79.534959},
+        iconImage:'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png',
+        content:'<h1>Lynn MA</h1>'
+      },
+      {
+        coords:{lat:42.8584,lng:-70.9300},
+        content:'<h1>Amesbury MA</h1>'
+      },
+      {
+        coords:{lat:42.7762,lng:-71.0773}
+      }
+    ];
+    var z;
+    var x = {{site.data.data | jsonify}};
+    console.log(x);
+    // Loop through markers
+    for(var i = 0;i < x.length;i++){
+      // Add marker
+      addMarker(x[i]);
+    }
+
+    // Add Marker Function
+    function addMarker(pos){
+      var marker = new google.maps.Marker({
+        position:{lat:pos.latitud,lng:pos.longitud},
+        map:map,
+        //icon:props.iconImage
+      });
+
+      // Check for customicon
+      if(pos.iconImage){
+        // Set icon image
+        marker.setIcon(pos.iconImage);
+      }
+
+      // Check content
+      if(pos.arbol){
+        var infoWindow = new google.maps.InfoWindow({
+          content: '<h4>' + pos.Personas + '</h4> <p>'+ pos.arbol +'</p>'
+        });
+
+        marker.addListener('click', function(){
+          infoWindow.open(map, marker);
+        });
+      }
+    }
+  }
+</script>
+<style>
+  #map{
+    height:600px;
+    width:100%;
+  }
+</style>
+<h1>WEKA POINTS</h1>
+<div id="map"></div>
+
+<script type="text/javascript">
+  var data = {{site.data.data | jsonify}};
+  console.log(data);
+</script>
