@@ -1,6 +1,7 @@
 [
   {
     "Personas": "Carlos Tunon",
+    "Equipo": "Huaweii Honor 6X",
     "arbol": "Guacimo",
     "latitud": 9.0247298,
     "longitud": -79.534959,
@@ -8,6 +9,7 @@
   },
   {
     "Personas": "Carlos Tunon",
+    "Equipo": "Huaweii Honor 6X",
     "arbol": "Macano",
     "latitud": 9.0247049,
     "longitud": -79.5327682,
@@ -15,6 +17,7 @@
   },
   {
     "Personas": "Carlos Tunon",
+    "Equipo": "Huaweii Honor 6X",
     "arbol": "Carrisillo",
     "latitud": 9.0249653,
     "longitud": -79.5299606,
@@ -22,6 +25,7 @@
   },
   {
     "Personas": "Carlos Tunon",
+    "Equipo": "Huaweii Honor 6X",
     "arbol": "Madroño",
     "latitud": 9.0268469,
     "longitud": -79.5338516,
@@ -29,6 +33,7 @@
   },
   {
     "Personas": "Carlos Tunon",
+    "Equipo": "Huaweii Honor 6X",
     "arbol": "Guayacan",
     "latitud": 9.0271063,
     "longitud": -79.5310287,
@@ -36,6 +41,7 @@
   },
   {
     "Personas": "Carlos Tunon",
+    "Equipo": "Huaweii Honor 6X",
     "arbol": "Guarumo",
     "latitud": 9.0250711,
     "longitud": -79.5318985,
@@ -43,9 +49,442 @@
   },
   {
     "Personas": "Carlos Tunon",
+    "Equipo": "Huaweii Honor 6X",
     "arbol": "Cuipo",
     "latitud": 9.023098,
     "longitud": -79.5347662,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Roy Henriquez",
+    "Equipo": "One Plus 5T",
+    "arbol": "Laurel",
+    "latitud": 9.022829,
+    "longitud": -79.532801,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Roy Henriquez",
+    "Equipo": "One Plus 5T",
+    "arbol": "Cuipo",
+    "latitud": 9.023079,
+    "longitud": -79.532715,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Roy Henriquez",
+    "Equipo": "One Plus 5T",
+    "arbol": "Raspa",
+    "latitud": 9.022905,
+    "longitud": -79.532969,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Roy Henriquez",
+    "Equipo": "One Plus 5T",
+    "arbol": "Harino",
+    "latitud": 9.02307,
+    "longitud": -79.532952,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Roy Henriquez",
+    "Equipo": "One Plus 5T",
+    "arbol": "Guayacan cebollin",
+    "latitud": 9.023445,
+    "longitud": -79.532987,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Roy Henriquez",
+    "Equipo": "One Plus 5T",
+    "arbol": "Corotú 1",
+    "latitud": 9.023456,
+    "longitud": -79.532884,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Roy Henriquez",
+    "Equipo": "One Plus 5T",
+    "arbol": "El Zorro",
+    "latitud": 9.023423,
+    "longitud": -79.53279,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Roy Henriquez",
+    "Equipo": "One Plus 5T",
+    "arbol": "Cocobolo",
+    "latitud": 9.023454,
+    "longitud": -79.532932,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Roy Henriquez",
+    "Equipo": "One Plus 5T",
+    "arbol": "Javillo",
+    "latitud": 9.023333,
+    "longitud": -79.532812,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Efrain Lay",
+    "Equipo": "One Plus X",
+    "arbol": "caoba",
+    "latitud": 9.0268587,
+    "longitud": -79.5331353,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Efrain Lay",
+    "Equipo": "One Plus X",
+    "arbol": "roble",
+    "latitud": 9.0268587,
+    "longitud": -79.5331353,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Efrain Lay",
+    "Equipo": "One Plus X",
+    "arbol": "guayacan",
+    "latitud": 9.0268587,
+    "longitud": -79.5331353,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Efrain Lay",
+    "Equipo": "One Plus X",
+    "arbol": "guacimo",
+    "latitud": 9.0260969,
+    "longitud": -79.5344074,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Efrain Lay",
+    "Equipo": "One Plus X",
+    "arbol": "cedro",
+    "latitud": 9.027885,
+    "longitud": -79.5342372,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Efrain Lay",
+    "Equipo": "One Plus X",
+    "arbol": "cholo",
+    "latitud": 9.027885,
+    "longitud": -79.5342372,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Moises Chin",
+    "Equipo": "Huaweii Honor 5X",
+    "arbol": "Toretta",
+    "latitud": 9.023314,
+    "longitud": -79.532508,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Moises Chin",
+    "Equipo": "Huaweii Honor 5X",
+    "arbol": "Arbol Corosito",
+    "latitud": 9.023298,
+    "longitud": -79.532633,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Moises Chin",
+    "Equipo": "Huaweii Honor 5X",
+    "arbol": "Arbol Nim",
+    "latitud": 9.023303,
+    "longitud": -79.532814,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Moises Chin",
+    "Equipo": "Huaweii Honor 5X",
+    "arbol": "Arbol Espave",
+    "latitud": 9.02327,
+    "longitud": -79.532824,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Moises Chin",
+    "Equipo": "Huaweii Honor 5X",
+    "arbol": "Cedro Amargo, El Zorro",
+    "latitud": 9.023433,
+    "longitud": -79.532832,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Moises Chin",
+    "Equipo": "Huaweii Honor 5X",
+    "arbol": "Corotu 500 años",
+    "latitud": 9.023524,
+    "longitud": -79.532865,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Moises Chin",
+    "Equipo": "Huaweii Honor 5X",
+    "arbol": "Grupo de Arboles Cocobolos",
+    "latitud": 9.023376,
+    "longitud": -79.532979,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Moises Chin",
+    "Equipo": "Huaweii Honor 5X",
+    "arbol": "Arbol Guayacan",
+    "latitud": 9.023354,
+    "longitud": -79.533014,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Moises Chin",
+    "Equipo": "Huaweii Honor 5X",
+    "arbol": "Arbol Harino",
+    "latitud": 9.023028,
+    "longitud": -79.532983,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Moises Chin",
+    "Equipo": "Huaweii Honor 5X",
+    "arbol": "Arbol Raspa",
+    "latitud": 9.022954,
+    "longitud": -79.532878,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Roderik Acevedo",
+    "Equipo": "One Plus 5T",
+    "arbol": "Pozo",
+    "latitud": 9.022844,
+    "longitud": -79.53269,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Roderik Acevedo",
+    "Equipo": "One Plus 5T",
+    "arbol": "Cuipo",
+    "latitud": 9.023046,
+    "longitud": -79.53269,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Roderik Acevedo",
+    "Equipo": "One Plus 5T",
+    "arbol": "El Raspa",
+    "latitud": 9.023169,
+    "longitud": -79.532876,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Roderik Acevedo",
+    "Equipo": "One Plus 5T",
+    "arbol": "Nance",
+    "latitud": 9.025201,
+    "longitud": -79.531825,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Roderik Acevedo",
+    "Equipo": "One Plus 5T",
+    "arbol": "Guarumo",
+    "latitud": 9.025201,
+    "longitud": -79.531852,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Roderik Acevedo",
+    "Equipo": "One Plus 5T",
+    "arbol": "Jobbo",
+    "latitud": 9.027406,
+    "longitud": -79.532458,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Roderik Acevedo",
+    "Equipo": "One Plus 5T",
+    "arbol": "Marañón",
+    "latitud": 9.028029,
+    "longitud": -79.532641,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Roderik Acevedo",
+    "Equipo": "One Plus 5T",
+    "arbol": "Cima Carrizillo",
+    "latitud": 9.027075,
+    "longitud": -79.533036,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Roderik Acevedo",
+    "Equipo": "One Plus 5T",
+    "arbol": "Fin carrizillo",
+    "latitud": 9.025874,
+    "longitud": -79.535402,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "John Kent",
+    "Equipo": "Iphone 6s",
+    "arbol": "Cocobolo",
+    "latitud": 9.023271996,
+    "longitud": -79.53308268,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "John Kent",
+    "Equipo": "Iphone 6s",
+    "arbol": "Cuasimo Colorado",
+    "latitud": 9.026378,
+    "longitud": -79.535594,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "John Kent",
+    "Equipo": "Iphone 6s",
+    "arbol": "Cuipo",
+    "latitud": 9.023017,
+    "longitud": -79.532697,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "John Kent",
+    "Equipo": "Iphone 6s",
+    "arbol": "Guarumo",
+    "latitud": 9.025378,
+    "longitud": -79.531938,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "John Kent",
+    "Equipo": "Iphone 6s",
+    "arbol": "Guayabal",
+    "latitud": 9.020092,
+    "longitud": -79.534204,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "John Kent",
+    "Equipo": "Iphone 6s",
+    "arbol": "Harino",
+    "latitud": 9.023103,
+    "longitud": -79.532879,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "John Kent",
+    "Equipo": "Iphone 6s",
+    "arbol": "Laurel",
+    "latitud": 9.022838,
+    "longitud": -79.532818,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "John Kent",
+    "Equipo": "Iphone 6s",
+    "arbol": "Macano",
+    "latitud": 9.026391,
+    "longitud": -79.535115,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "John Kent",
+    "Equipo": "Iphone 6s",
+    "arbol": "Hobo",
+    "latitud": 9.027395,
+    "longitud": -79.532471,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "John Kent",
+    "Equipo": "Iphone 6s",
+    "arbol": "Raspa",
+    "latitud": 9.022964,
+    "longitud": -79.532928,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Eddie Pan",
+    "Equipo": "One Plus 2",
+    "arbol": "Laurel",
+    "latitud": 9.002836,
+    "longitud": -79.532778,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Eddie Pan",
+    "Equipo": "One Plus 2",
+    "arbol": "Cuipo",
+    "latitud": 9.023022,
+    "longitud": -79.532751,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Eddie Pan",
+    "Equipo": "One Plus 2",
+    "arbol": "El Raspa",
+    "latitud": 9.023054,
+    "longitud": -79.532965,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Eddie Pan",
+    "Equipo": "One Plus 2",
+    "arbol": "Harino",
+    "latitud": 9.023095,
+    "longitud": -79.532991,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Eddie Pan",
+    "Equipo": "One Plus 2",
+    "arbol": "Guayacán cebollin",
+    "latitud": 9.023414,
+    "longitud": -79.533022,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Eddie Pan",
+    "Equipo": "One Plus 2",
+    "arbol": "Corotú 1",
+    "latitud": 9.023494,
+    "longitud": -79.532825,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Eddie Pan",
+    "Equipo": "One Plus 2",
+    "arbol": "El Zorro",
+    "latitud": 9.023399,
+    "longitud": -79.532842,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Eddie Pan",
+    "Equipo": "One Plus 2",
+    "arbol": "Corotú 2",
+    "latitud": 9.02323,
+    "longitud": -79.532833,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Eddie Pan",
+    "Equipo": "One Plus 2",
+    "arbol": "Javillo",
+    "latitud": 9.023239,
+    "longitud": -79.532805,
+    "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
+  },
+  {
+    "Personas": "Eddie Pan",
+    "Equipo": "One Plus 2",
+    "arbol": "Corosito",
+    "latitud": 9.023265,
+    "longitud": -79.532683,
     "iconImage": "https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png"
   }
 ]

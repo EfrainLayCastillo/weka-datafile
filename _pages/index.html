@@ -86,7 +86,7 @@ logo: white
       // Check content
       if(pos.arbol){
         var infoWindow = new google.maps.InfoWindow({
-          content: '<h4>' + pos.Personas + '</h4> <p>'+ pos.arbol +'</p>'
+          content: '<h4>' + pos.Personas + '</h4> <span>'+pos.Equipo +'</span> <p>'+ pos.arbol +'</p>'
         });
 
         marker.addListener('click', function(){
