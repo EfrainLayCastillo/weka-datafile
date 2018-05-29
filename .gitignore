@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 _site
 .sass-cache
 .jekyll-metadata
 .asset-cache
 s3_website.yml
+=======
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+>>>>>>> 51a93fb06797902a41cb919285ee096e69bdc2a5
